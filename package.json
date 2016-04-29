@@ -4,7 +4,7 @@
     "version": "1.0.0.0a",
     "description": "MrWebSmith TEST fork of the default ET Skin.",
     "plugin": "plugin.js",
-    "homepage": "https://github.com/MediaBrowser/emby-web-mwsskin",
+    "homepage": "https://github.com/mrwebsmith/emby-web-mwsskin",
     "thumb": "",
     "backdrop": ""
 }
